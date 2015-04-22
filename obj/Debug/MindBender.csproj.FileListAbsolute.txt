@@ -1,0 +1,16 @@
+C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\MindBender.dll
+C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\MindBender.pdb
+C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\MindBender.dll.mdb
+C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\MindBender.MindBender.apk
+C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\MindBender.MindBender-Signed.apk
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\MindBender.dll
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\MindBender.pdb
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\android\bin\MindBender.MindBender.apk
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\layout\main.xml
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\values\strings.xml
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\icon.png
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\values\styles.xml
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\R.cs.flag
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\uploadflags.txt
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\randomletters.png
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\randomizebutton.xml

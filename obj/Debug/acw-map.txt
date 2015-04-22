@@ -1,0 +1,2 @@
+Randomizer.RandomizeActivity;randomizer.RandomizeActivity
+Randomizer.MainActivity;randomizer.MainActivity
