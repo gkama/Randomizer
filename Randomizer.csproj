@@ -47,8 +47,10 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DigitTranslator.cs" />
-    <Compile Include="RandomizeActivity.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="RandomizeDigitsActivity.cs" />
+    <Compile Include="RandomizeLettersActivity.cs" />
+    <Compile Include="LetterTranslator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -60,14 +62,15 @@
     <AndroidResource Include="Resources\drawable\Icon.png" />
     <AndroidResource Include="Resources\values\Styles.xml" />
     <AndroidResource Include="Resources\drawable\randomizeButton.xml" />
-    <AndroidResource Include="Resources\drawable\randomletters.jpg" />
     <AndroidResource Include="Resources\drawable\fluency.jpg" />
-    <AndroidResource Include="Resources\layout\RandomizeScreen.axml" />
     <AndroidResource Include="Resources\layout\MainScreen.axml" />
     <AndroidResource Include="Resources\anim\Anim1.xml" />
     <AndroidResource Include="Resources\anim\Anim2.xml" />
     <AndroidResource Include="Resources\anim\Anim3.xml" />
     <AndroidResource Include="Resources\anim\Anim4.xml" />
+    <AndroidResource Include="Resources\layout\RandomizeDigitsScreen.axml" />
+    <AndroidResource Include="Resources\layout\RandomizeLettersScreen.axml" />
+    <AndroidResource Include="Resources\drawable\shuffle.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

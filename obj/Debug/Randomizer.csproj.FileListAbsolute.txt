@@ -4,7 +4,6 @@ C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\values\styles.x
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\randomizebutton.xml
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\randomletters.jpg
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\fluency.jpg
-C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\layout\randomizescreen.xml
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\layout\mainscreen.xml
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\anim\anim1.xml
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\anim\anim2.xml
@@ -20,3 +19,6 @@ C:\Work\Projects\Mind Bender\MindBender\MindBender\bin\Debug\randomizer.randomiz
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\Randomizer.dll
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\Randomizer.pdb
 C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\android\bin\randomizer.randomizer.apk
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\layout\randomizedigitsscreen.xml
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\layout\randomizelettersscreen.xml
+C:\Work\Projects\Mind Bender\MindBender\MindBender\obj\Debug\res\drawable\shuffle.png

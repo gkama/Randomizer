@@ -1,2 +1,3 @@
-Randomizer.RandomizeActivity;randomizer.RandomizeActivity
 Randomizer.MainActivity;randomizer.MainActivity
+Randomizer.RandomizeDigitsActivity;randomizer.RandomizeDigitsActivity
+Randomizer.RandomizeLettersActivity;randomizer.RandomizeLettersActivity
