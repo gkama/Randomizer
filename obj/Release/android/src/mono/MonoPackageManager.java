@@ -67,7 +67,7 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		"MindBender.dll",
+		"Randomizer.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

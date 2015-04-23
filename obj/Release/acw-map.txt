@@ -1,2 +1,3 @@
-MindBender.RandomizeActivity;mindbender.RandomizeActivity
-MindBender.MainActivity;mindbender.MainActivity
+Randomizer.MainActivity;randomizer.MainActivity
+Randomizer.RandomizeDigitsActivity;randomizer.RandomizeDigitsActivity
+Randomizer.RandomizeLettersActivity;randomizer.RandomizeLettersActivity

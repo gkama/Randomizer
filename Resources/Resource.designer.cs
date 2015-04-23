@@ -79,7 +79,7 @@ namespace Randomizer
 			public const int randomizeButton = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int randomletters = 2130837507;
+			public const int shuffle = 2130837507;
 			
 			static Drawable()
 			{
@@ -94,8 +94,11 @@ namespace Randomizer
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070011
-			public const int aboutText = 2131165201;
+			// aapt resource value: 0x7f070003
+			public const int DigitsLettersToggleButton = 2131165187;
+			
+			// aapt resource value: 0x7f070012
+			public const int aboutText = 2131165202;
 			
 			// aapt resource value: 0x7f070001
 			public const int authorText = 2131165185;
@@ -103,50 +106,50 @@ namespace Randomizer
 			// aapt resource value: 0x7f070002
 			public const int chooseaCategoryText = 2131165186;
 			
-			// aapt resource value: 0x7f07000c
-			public const int errorText = 2131165196;
+			// aapt resource value: 0x7f07000d
+			public const int errorText = 2131165197;
 			
-			// aapt resource value: 0x7f070008
-			public const int fifteendigitsCategory = 2131165192;
-			
-			// aapt resource value: 0x7f070004
-			public const int fivedigitsCategory = 2131165188;
-			
-			// aapt resource value: 0x7f070003
-			public const int fourdigitsCategory = 2131165187;
-			
-			// aapt resource value: 0x7f07000b
-			public const int inputText = 2131165195;
-			
-			// aapt resource value: 0x7f07000f
-			public const int outputText = 2131165199;
-			
-			// aapt resource value: 0x7f07000e
-			public const int randomizeButton = 2131165198;
-			
-			// aapt resource value: 0x7f070006
-			public const int sevendigitsCategory = 2131165190;
+			// aapt resource value: 0x7f070009
+			public const int fifteendigitsCategory = 2131165193;
 			
 			// aapt resource value: 0x7f070005
-			public const int sixdigitsCategory = 2131165189;
+			public const int fivedigitsCategory = 2131165189;
 			
-			// aapt resource value: 0x7f07000d
-			public const int space1 = 2131165197;
+			// aapt resource value: 0x7f070004
+			public const int fourdigitsCategory = 2131165188;
+			
+			// aapt resource value: 0x7f07000c
+			public const int inputText = 2131165196;
 			
 			// aapt resource value: 0x7f070010
-			public const int space2 = 2131165200;
+			public const int outputText = 2131165200;
+			
+			// aapt resource value: 0x7f07000f
+			public const int randomizeButton = 2131165199;
 			
 			// aapt resource value: 0x7f070007
-			public const int tendigitsCategory = 2131165191;
+			public const int sevendigitsCategory = 2131165191;
 			
-			// aapt resource value: 0x7f07000a
-			public const int textView1 = 2131165194;
+			// aapt resource value: 0x7f070006
+			public const int sixdigitsCategory = 2131165190;
+			
+			// aapt resource value: 0x7f07000e
+			public const int space1 = 2131165198;
+			
+			// aapt resource value: 0x7f070011
+			public const int space2 = 2131165201;
+			
+			// aapt resource value: 0x7f070008
+			public const int tendigitsCategory = 2131165192;
+			
+			// aapt resource value: 0x7f07000b
+			public const int textView1 = 2131165195;
 			
 			// aapt resource value: 0x7f070000
 			public const int titleText = 2131165184;
 			
-			// aapt resource value: 0x7f070009
-			public const int twentyfivedigitsCategory = 2131165193;
+			// aapt resource value: 0x7f07000a
+			public const int twentyfivedigitsCategory = 2131165194;
 			
 			static Id()
 			{
@@ -165,7 +168,10 @@ namespace Randomizer
 			public const int MainScreen = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int RandomizeScreen = 2130903041;
+			public const int RandomizeDigitsScreen = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int RandomizeLettersScreen = 2130903042;
 			
 			static Layout()
 			{

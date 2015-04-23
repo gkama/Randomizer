@@ -21,30 +21,33 @@ public final class R {
         public static final int icon=0x7f020001;
         public static final int randomizebutton=0x7f020002;
         public static final int randomletters=0x7f020003;
+        public static final int shuffle=0x7f020004;
     }
     public static final class id {
-        public static final int aboutText=0x7f070011;
+        public static final int DigitsLettersToggleButton=0x7f070003;
+        public static final int aboutText=0x7f070012;
         public static final int authorText=0x7f070001;
         public static final int chooseaCategoryText=0x7f070002;
-        public static final int errorText=0x7f07000c;
-        public static final int fifteendigitsCategory=0x7f070008;
-        public static final int fivedigitsCategory=0x7f070004;
-        public static final int fourdigitsCategory=0x7f070003;
-        public static final int inputText=0x7f07000b;
-        public static final int outputText=0x7f07000f;
-        public static final int randomizeButton=0x7f07000e;
-        public static final int sevendigitsCategory=0x7f070006;
-        public static final int sixdigitsCategory=0x7f070005;
-        public static final int space1=0x7f07000d;
-        public static final int space2=0x7f070010;
-        public static final int tendigitsCategory=0x7f070007;
-        public static final int textView1=0x7f07000a;
+        public static final int errorText=0x7f07000d;
+        public static final int fifteendigitsCategory=0x7f070009;
+        public static final int fivedigitsCategory=0x7f070005;
+        public static final int fourdigitsCategory=0x7f070004;
+        public static final int inputText=0x7f07000c;
+        public static final int outputText=0x7f070010;
+        public static final int randomizeButton=0x7f07000f;
+        public static final int sevendigitsCategory=0x7f070007;
+        public static final int sixdigitsCategory=0x7f070006;
+        public static final int space1=0x7f07000e;
+        public static final int space2=0x7f070011;
+        public static final int tendigitsCategory=0x7f070008;
+        public static final int textView1=0x7f07000b;
         public static final int titleText=0x7f070000;
-        public static final int twentyfivedigitsCategory=0x7f070009;
+        public static final int twentyfivedigitsCategory=0x7f07000a;
     }
     public static final class layout {
         public static final int mainscreen=0x7f030000;
-        public static final int randomizescreen=0x7f030001;
+        public static final int randomizedigitsscreen=0x7f030001;
+        public static final int randomizelettersscreen=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f050001;

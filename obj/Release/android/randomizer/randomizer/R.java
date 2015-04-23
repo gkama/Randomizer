@@ -20,8 +20,7 @@ public final class R {
         public static final int fluency=0x7f020000;
         public static final int icon=0x7f020001;
         public static final int randomizebutton=0x7f020002;
-        public static final int randomletters=0x7f020003;
-        public static final int shuffle=0x7f020004;
+        public static final int shuffle=0x7f020003;
     }
     public static final class id {
         public static final int DigitsLettersToggleButton=0x7f070003;
